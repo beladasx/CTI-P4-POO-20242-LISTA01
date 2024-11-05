@@ -38,7 +38,7 @@ A special shout-out to our amazing collaborators who contributed to this project
 | **Name**           | **GitHub Profile**                                    |
 |--------------------|-------------------------------------------------------|
 | Maxwell Maciel     | [MaxwellMaciel](https://github.com/MaxwellMaciel)     |
-| Rauqel Matos       | [raquelmatos02](https://github.com/raquelmatos02)     |
+| Raquel Matos       | [raquelmatos02](https://github.com/raquelmatos02)     |
 | Rebecca Oliver     | [rebeccaoliver](https://github.com/rebeccaoliver)     |
 
 ---
